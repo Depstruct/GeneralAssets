@@ -5,14 +5,14 @@
 # Table of contents
 
 <!--ts-->
-  * [Stencil Buffer](#StencilBuffer)
+  * [StencilBuffer](#stencilbuffer)
    >* [Installation](#installation)
    >* [Requirement](#requirement)
    >* [Usage](#usage)
 <!--te-->
 
 
-# Stencil Buffer
+# StencilBuffer
 ## Installation
 
 [![GitHub releases](https://img.shields.io/static/v1?style=for-the-badge&label=GitHub%20Releases&labelColor=181717&message=Downloads&color=green&logo=GitHub&logoColor=white)](https://github.com/Jhan-JiaHao/GeneralAssets/releases/tag/Stencil1.0)
