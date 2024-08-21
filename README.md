@@ -26,5 +26,3 @@
 
 # Maintainers
 [@JiaHao](https://github.com/Jhan-JiaHao).
-
-# StencilBuffer
