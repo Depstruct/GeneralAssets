@@ -5,7 +5,7 @@
 # Table of contents
 
 <!--ts-->
-  * [StencilBuffer](#stencilbuffer)
+  * [Stencil Buffer](#stencilbuffer)
    >* [Installation](#installation)
    >* [Requirement](#requirement)
    >* [Usage](#usage)
