@@ -5,7 +5,7 @@
 # Table of contents
 
 <!--ts-->
-  * [Stencil Buffer](#stencilbuffer)
+  * [StencilBuffer](#stencilbuffer)
    >* [Installation](#installation)
    >* [Requirement](#requirement)
    >* [Usage](#usage)
@@ -26,3 +26,5 @@
 
 # Maintainers
 [@JiaHao](https://github.com/Jhan-JiaHao).
+
+StencilBuffer
