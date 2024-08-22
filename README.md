@@ -1,5 +1,5 @@
 # GeneralAssets
-> GeneralAssets 旨在讓大家交流任何可以通用的美術素材,以及提供更多的美術相關解決方案
+> GeneralAssets 旨在讓大家交流任何可以通用的Assets,以及提供更多的解決方案
 
 
 # Table of contents
