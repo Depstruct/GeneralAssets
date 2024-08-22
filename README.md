@@ -5,10 +5,7 @@
 # Table of contents
 
 <!--ts-->
-  * [StencilBuffer](#stencilbuffer)
-   >* [Installation](#installation)
-   >* [Requirement](#requirement)
-   >* [Usage](#usage)
+  * [StencilBuffer](https://github.com/Jhan-JiaHao/StencilBuffer/blob/main/README.md)
 <!--te-->
 
 
