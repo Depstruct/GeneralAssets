@@ -9,4 +9,4 @@
 <!--te-->
 
 # Maintainers
-[@Digispace](https://github.com/XRDigispace).
+[@Digispace](https://github.com/XRDigispace).[@Depstruct](https://github.com/Depstruct).
